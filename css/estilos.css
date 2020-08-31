@@ -1,0 +1,15 @@
+body
+{
+    padding:10px;
+    margin:40px;
+    font-size: 24px;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-image:url(https://images4.alphacoders.com/774/77408.jpg);
+    background-repeat: repeat;
+    color: rgb(138, 155, 252);
+}
+
+nav
+{
+    padding: 0px;
+    color:#4e70cc;
